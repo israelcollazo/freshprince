@@ -1,0 +1,18 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #f6f6f6;
+	font-size: 14px;
+}
+
+h1 {
+	font-family: 'Paytone One', sans-serif;
+	font-size: 6em;
+	color: #333;
+	text-transform: uppercase;
+	line-height: 1em;
+}
+
+p {
+	color: #333;
+	line-height: 24px;
+}
